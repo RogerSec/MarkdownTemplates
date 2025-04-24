@@ -11,13 +11,13 @@ categories: [reverse-engineering, malware-analysis]
     Brief overview of the malware, its impact, and key findings from the analysis.
 
 ## Table of Contents
-1. Introduction
-2. Methodology
-3. Sample Information & IOCs
-4. (Opt)
-5. Mitigation Recomendations and Prioritizations
-6. Conclusion
-7. References & Appendices
+1. [Introduction](#1-Introduction)
+2. [Methodology](#)
+3. [Sample Information & IOCs](#)
+4. [(Opt)](#)
+5. [Mitigation Recomendations and Prioritizations](#)
+6. [Conclusion](#7-conclusion)
+7. [References & Appendices](#8-references--appendices)
 
 ## 1. Introduction
     Purpose of the report and the scope of the analysis.
