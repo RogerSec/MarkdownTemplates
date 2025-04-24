@@ -35,6 +35,10 @@ categories: [reverse-engineering, malware-analysis]
     File paths and registry keys modified by the malware.
 
 ## 4. (Opt) Static Analysis
+
+    <details><summary>Expandable section</summary>
+    hidden information
+    </details>
     File properties (size, type, creation date).
     Strings analysis (notable strings found in the binary).
     Import/export table analysis (libraries and functions used).
