@@ -12,10 +12,10 @@ categories: [reverse-engineering, malware-analysis]
 
 ## Table of Contents
 1. [Introduction](#1-Introduction)
-2. [Methodology](#)
-3. [Sample Information & IOCs](#)
+2. [Methodology](#2-methodology)
+3. [Sample Information & IOCs](#3-sample-information--iocs)
 4. [(Opt)](#)
-5. [Mitigation Recomendations and Prioritizations](#)
+5. [Mitigation Recomendations and Prioritizations](#6-mitigation-recomendations--prioritizations)
 6. [Conclusion](#7-conclusion)
 7. [References & Appendices](#8-references--appendices)
 
@@ -55,7 +55,7 @@ categories: [reverse-engineering, malware-analysis]
     Affected systems and environments
     Risk assessment based on findings
 
-## 6. Mitigation Recomendations and Prioritizations
+## 6. Mitigation Recomendations & Prioritizations
     Recommendations for detection and prevention.
     Suggested security measures to protect against similar threats.
 
