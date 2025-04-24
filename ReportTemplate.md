@@ -36,9 +36,9 @@ categories: [reverse-engineering, malware-analysis]
 
 ## 4. (Opt) Static Analysis
 
-    <details><summary>Expandable section</summary>
-    hidden information
-    </details>
+<details><summary>Expandable section</summary>
+hidden information
+</details>
     File properties (size, type, creation date).
     Strings analysis (notable strings found in the binary).
     Import/export table analysis (libraries and functions used).
