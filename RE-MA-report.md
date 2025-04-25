@@ -2,7 +2,7 @@
 layout: post
 title: "Title of report"
 date: 202X-XX-XX
-categories: [reverse-engineering, malware-analysis]
+categories: [Reverse Engineering, Malware Analysis]
 ---
 
 # Title of report
